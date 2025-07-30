@@ -46,14 +46,9 @@ Just double-click or open `index.html` in your browser.
 
 ---
 
-## 🧩 Next Steps
+## 📚 Learn More
 
-You can connect this frontend to any backend API to:
-
-- Record user predictions
-- Store results in a database
-- Generate results randomly or by admin control
-- Handle user wallet and transactions
+To build a full working platform with backend logic, user wallet, admin panel, and more, check out this step-by-step guide on how to create a [**colour prediction website**](https://inindiatech.com/next/how-to-create-a-colour-prediction-website).
 
 ---
 
